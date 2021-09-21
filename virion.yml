@@ -1,0 +1,8 @@
+---
+name: entityidentifier-register
+antigen: kim\present\register\entityidentifier
+version: 0.0.1
+api: 4.0.0
+authors: [ PresentKim ]
+description: Library that performs the function of registering entity identifier
+...
